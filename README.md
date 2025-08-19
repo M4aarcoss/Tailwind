@@ -3,8 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Documentação Tailwind CSS - Guia Rápido</title>
-  <script src="https://cdn.tailwindcss.com"></script>
+
 </head>
 <body class="bg-gray-50 text-gray-800 p-6 leading-relaxed">
   <h1 class="text-2xl font-bold mb-6">📘 Guia Rápido de Classes Tailwind CSS</h1>
